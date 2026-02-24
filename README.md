@@ -1,5 +1,8 @@
 # Starter Web Repo
 
+This is a started web based project to get used to working with git, has nothing
+toi do with web at all.
+
 ## Introduction
 
 This repository is for showing how Git and GitHub work
