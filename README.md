@@ -13,7 +13,8 @@ Sample website with plenty of files for demos
 
 ## Deployment 
 
+Have no a slightest idea what has to go here.
 
 ## How To Contribute
 
-TODO
+Need to contact administration.
