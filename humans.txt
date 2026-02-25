@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    John Doe -- cadaver -- no found
 
 # THANKS
 
