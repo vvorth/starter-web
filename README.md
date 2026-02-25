@@ -18,3 +18,8 @@ Have no a slightest idea what has to go here.
 ## How To Contribute
 
 Need to contact administration.
+
+### Copyright
+
+2026 vvorth
+
