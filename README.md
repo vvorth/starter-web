@@ -18,6 +18,7 @@ Have no a slightest idea what has to go here.
 ## How To Contribute
 
 Need to contact administration.
+Please fork this repo and issue PR for review.
 
 ### Copyright
 
