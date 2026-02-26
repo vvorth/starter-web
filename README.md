@@ -2,6 +2,7 @@
 
 This is a started web based project to get used to working with git, has nothing
 toi do with web at all.
+Adding a line for rebasing
 
 ## Introduction
 
